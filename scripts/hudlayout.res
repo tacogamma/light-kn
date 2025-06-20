@@ -104,13 +104,16 @@
 	}
 	"DisguiseStatus"
 	{
-		"fieldName"									"DisguiseStatus"
-		"visible"									"1"
-		"enabled"									"1"
-		"xpos"										"0"
-		"ypos"										"0"
-		"wide"										"f0"
-		"tall"										"f0"
+		"fieldName" "DisguiseStatus"
+		"visible"	"1"
+		"enabled"	"1"
+		"xpos"		"c-80"	[$WIN32]
+		"ypos"		"r150"	[$WIN32]
+		"xpos"		"50"	[$X360]
+		"ypos"		"330"	[$X360]
+		"wide"		"500"
+		"tall"		"150"
+		"TextFont"	"Default"	[$X360]
 	}
 	"CMainTargetID"
 	{
@@ -196,7 +199,7 @@
 	{
 		"ControlName"								"CCurrencyStatusPanel"
 		"fieldName"									"CurrencyStatusPanel"
-		"xpos"										"0"
+		"xpos"										"-60"
 		"ypos"										"0"
 		"wide"										"f0"
 		"tall"										"f0"

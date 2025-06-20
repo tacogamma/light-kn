@@ -141,7 +141,7 @@
 			"fieldName"								"DifficultyLabel"
 			"xpos"									"0"
 			"ypos"									"0"
-			"wide"									"58"
+			"wide"									"60"
 			"tall"									"f0"
 			"AllCaps"								"1"
 			"font"									"HudFontSmallest"

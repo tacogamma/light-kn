@@ -15,7 +15,7 @@
 		"labelText"									"%currency%"
 		"textAlignment"								"center"
 		"font"										"HudFontSmall"
-		"fgcolor"									"GreenSolid"
+		"fgcolor"									"Orange"
 	}
 	"CurrencyBad"
 	{
@@ -32,7 +32,7 @@
 		"labelText"									"%currency%"
 		"textAlignment"								"center"
 		"font"										"HudFontSmall"
-		"fgcolor"									"Red"
+		"fgcolor"									"HPAmmoDanger"
 	}
 	"CurrencyShadow"
 	{
@@ -49,7 +49,7 @@
 		"labelText"									"%currency%"
 		"textAlignment"								"center"
 		"font"										"HudFontSmall"
-		"fgcolor"									"LabelTransparent"
+		"fgcolor"									"Black"
 
 		"pin_to_sibling"							"CurrencyGood"
 	}
