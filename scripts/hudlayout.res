@@ -32,16 +32,16 @@
 	}
 	"HudKothTimeStatus"
 	{
-		"fieldName"									"HudKothTimeStatus"
-		"visible"									"1"
-		"enabled"									"1"
-		"xpos"										"cs-0.5"
-		"ypos"										"0"
-		"wide"										"86"
-		"tall"										"30"
-		"blue_active_xpos"							"0"
-		"red_active_xpos"							"46"
-	}
+		"fieldName" "HudKothTimeStatus"
+		"visible" "1"
+		"enabled" "1"
+		"xpos"	"0"
+		"ypos"	"0"
+		"wide"	"f0"
+		"tall"	"60"
+		"blue_active_xpos"			"c-70"
+		"red_active_xpos"			"c-5"
+	}	
 	HudMedicCharge
 	{
 		"fieldName"		"HudMedicCharge"

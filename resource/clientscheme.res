@@ -36,9 +36,9 @@
 		"PartyMember6"										"255 133 255 255"
 
 		"White"												"230 232 235 255"
-		"Red"												"225 75 75 255"
-		"RedSolid"											"225 75 75 255"
-		"Blue"												"115 150 170 255"
+		"Red"												"180 50 50 255" // 225 75 75 255
+		"RedSolid"											"180 50 50 255"
+		"Blue"												"70 120 160 255" // 115 150 170 255
 		"OrangeSolid"										"255 160 100 255"
 		"Yellow"											"230 232 235 255"
 		"TransparentYellow"									"230 232 235 255"
@@ -50,10 +50,10 @@
 		"TransparentLightBlack"								"0 0 0 100"
 		"FooterBGBlack"										"20 22 24 255"
 
-		"HUDBlueTeam"										"115 150 170 255"
+		"HUDBlueTeam"										"70 120 160 255"
 		"HUDRedTeam"										"190 60 60 255"
 		"HUDSpectator"										"130 125 125 255"
-		"HUDBlueTeamSolid"									"115 150 170 255"
+		"HUDBlueTeamSolid"									"70 120 160 255"
 		"HUDRedTeamSolid"									"190 60 60 255"
 		"HUDDeathWarning"									"255 0 0 255"
 		"HudWhite"											"230 232 235 255"
@@ -73,12 +73,12 @@
 
 		"HudProgressBarActive"								"230 232 235 255"
 		"HudProgressBarInActive"							"230 232 235 255"
-		"HudProgressBarActiveLow"							"225 75 75 255"
-		"HudProgressBarInActiveLow"							"225 75 75 255"
+		"HudProgressBarActiveLow"							"180 50 50 255"
+		"HudProgressBarInActiveLow"							"180 50 50 255"
 
 		"HudTimerProgressActive"							"230 232 235 255"
 		"HudTimerProgressInActive"							"32 30 30 255"
-		"HudTimerProgressWarning"							"225 75 75 255"
+		"HudTimerProgressWarning"							"180 50 50 255"
 
 		"HudTrainingHint"									"230 232 235 255"
 
@@ -89,7 +89,7 @@
 		"StoreDarkTan"										"125 127 130 255"
 		"StoreGreen"										"50 112 73 255"
 
-		"LowHealthRed"										"225 75 75 255"
+		"LowHealthRed"										"180 50 50 255"
 		"ProgressOffWhite"									"230 232 235 255"
 		"ProgressBackground"								"0 0 0 50"
 		"HealthBgGrey"										"125 127 130 255"
@@ -102,14 +102,14 @@
 		"BuildMenuActive"									"230 232 235 255"
 
 		"DisguiseMenuIconRed"								"190 60 60 255"
-		"DisguiseMenuIconBlue"								"115 150 170 255"
+		"DisguiseMenuIconBlue"								"70 120 160 255"
 
 		"HTMLBackground"									"45 44 43 255"
 
 		"ItemAttribLevel"									"230 232 235 255"
 		"ItemAttribNeutral"									"230 232 235 255"
 		"ItemAttribPositive"								"230 232 235 255"
-		"ItemAttribNegative"								"225 75 75 255"
+		"ItemAttribNegative"								"180 50 50 255"
 
 		"ItemSetName"										"225 255 15 255"
 		"ItemSetItemEquipped"								"149 175 12 255"

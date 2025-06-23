@@ -502,6 +502,7 @@
 				"labelText"				"%respawntime%"
 				"textAlignment"			"center"
 				"proportionaltoparent"	"1"
+				"fgcolor"				"Yellow"
 			}
 			"chargeamount"
 			{
